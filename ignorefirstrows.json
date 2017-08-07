@@ -1,0 +1,14 @@
+{
+  "name": "Ignore first rows",
+  "id_name": "ignorefirstrows",
+  "category" : "Wrangle",
+  "description": "Ignore first rows. Number of rows that must be ignored is determined by parameter given by user.",
+  "icon": "wrangle",
+  "parameters": [
+    {
+      "name": "Number of rows",
+      "id_name": "numberofrows",
+      "type": "number"
+    }
+  ]
+}
