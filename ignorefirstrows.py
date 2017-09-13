@@ -9,7 +9,7 @@ class Importable:
 
     @staticmethod
     def render(wf_module, table):
-        number_of_rows = wf_module.get_param_number('numberofrows')
+        number_of_rows = wf_module.get_param_integer('numberofrows')
         newtab = table.ix[number_of_rows:]
         wf_module.set_ready(notify=False)
         return newtab
