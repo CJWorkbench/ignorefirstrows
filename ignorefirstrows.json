@@ -1,7 +1,7 @@
 {
   "name": "Ignore top rows",
   "id_name": "ignorefirstrows",
-  "category" : "Transform",
+  "category" : "Analyse",
   "description": "Ignore first rows. Number of rows that must be ignored is determined by parameter given by user.",
   "icon": "wrangle",
   "parameters": [
