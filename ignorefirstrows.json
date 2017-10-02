@@ -8,7 +8,7 @@
     {
       "name": "Number of rows",
       "id_name": "numberofrows",
-      "type": "number"
+      "type": "integer"
     }
   ]
 }
