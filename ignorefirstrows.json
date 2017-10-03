@@ -1,5 +1,5 @@
 {
-  "name": "Ignore top rows",
+  "name": "Ignore Top Rows",
   "id_name": "ignorefirstrows",
   "category" : "Analyse",
   "description": "Ignore first rows. Number of rows that must be ignored is determined by parameter given by user.",
